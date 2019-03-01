@@ -35,7 +35,7 @@
   <entry>
     <title><![CDATA[Hexo教程]]></title>
     <url>%2F2019%2F02%2F28%2FHexo%E6%95%99%E7%A8%8B%2F</url>
-    <content type="text"><![CDATA[官方网址https://hexo.io/zh-cn/docs/ 安装步骤https://www.cnblogs.com/fengxiongZz/p/7707219.html 使用next主题https://www.jianshu.com/p/21c94eb7bcd1 http://theme-next.iissnan.com/getting-started.html 添加tags使用localSearch使用不蒜子统计https://www.jianshu.com/p/089762f90e1c HexoAdmin配置使用https://www.jianshu.com/p/68e727dda16d http://www.inmyai.com/2018/05/01/Hexo-Admin-Deploy%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F/ 使用bat文件https://blog.csdn.net/qq_21808961/article/details/84868482 解决错误https://blog.csdn.net/leedaning/article/details/53024162]]></content>
+    <content type="text"><![CDATA[官方网址https://hexo.io/zh-cn/docs/ 安装步骤安装Node.js 安装Git安装Hexo1npm install hexo -g 检验安装1hexo -v 创建目录Blog1mkdir blog 进入文件夹123```##### 初始化 hexo init` 安装所需插件开始安装https://www.cnblogs.com/fengxiongZz/p/7707219.html 使用next主题https://www.jianshu.com/p/21c94eb7bcd1 http://theme-next.iissnan.com/getting-started.html 添加tags使用localSearch使用不蒜子统计https://www.jianshu.com/p/089762f90e1c HexoAdmin配置使用https://www.jianshu.com/p/68e727dda16d http://www.inmyai.com/2018/05/01/Hexo-Admin-Deploy%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F/ 使用bat文件https://blog.csdn.net/qq_21808961/article/details/84868482 解决错误https://blog.csdn.net/leedaning/article/details/53024162]]></content>
       <tags>
         <tag>Hexo</tag>
       </tags>
