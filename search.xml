@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Java并发编程]]></title>
+    <url>%2F2019%2F03%2F01%2FJava%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%2F</url>
+    <content type="text"><![CDATA[知识总结线程状态转换新建(New)可运行(Runnable)阻塞(Blocking)无限期等待(Waiting)限期等待(Timed Waiting)死亡(Terminated)实现多线程的方式以及区别实现Runnable接口实现Callable接口继承Thread类比较区别 实现接口与继承类相比好些，因为Java不支持多重继承，却可以实现多个接口 实现多线程可能只要求运行，继承整个类开销过大 基础线程机制面试指南]]></content>
+      <tags>
+        <tag>Java</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Java集合框架]]></title>
     <url>%2F2019%2F03%2F01%2FJava%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6%2F</url>
     <content type="text"><![CDATA[HashTable和HashMap HashTable的方法是同步的，HashMap需要在多线程场合手动同步 HashTable不允许null值，HashMap允许null值 在遍历方法中，HashTable仅比HashMap多了一个elements()方法 HashTable和HashMap都能通过values()方法返回一个集合来遍历]]></content>
