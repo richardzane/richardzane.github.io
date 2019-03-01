@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[HexoEditor安装使用]]></title>
+    <url>%2F2019%2F03%2F01%2FHexoEditor%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%2F</url>
+    <content type="text"><![CDATA[http://dugblog.coding.me/Hexo/20180616-build-blog-hexo-next-windows.html#HexoEditor%E5%AE%89%E8%A3%85]]></content>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[SpringBoot项目在Tomcat下的部署]]></title>
     <url>%2F2019%2F03%2F01%2FSpringBoot%E9%A1%B9%E7%9B%AE%E5%9C%A8Tomcat%E4%B8%8B%E7%9A%84%E9%83%A8%E7%BD%B2%2F</url>
     <content type="text"><![CDATA[https://blog.csdn.net/u013279563/article/details/81144154]]></content>
@@ -30,6 +38,14 @@
     <content type="text"></content>
       <tags>
         <tag>Vocation</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hexo教程]]></title>
+    <url>%2F2019%2F02%2F28%2FHexo%E6%95%99%E7%A8%8B%2F</url>
+    <content type="text"><![CDATA[官方网址https://hexo.io/zh-cn/docs/ 安装步骤安装Node.js安装Git安装Hexo1npm install hexo -g 检验安装1hexo -v 创建目录1234D:cd D:\Project\Hexo\Blogmkdir Blogcd Blog 初始化1hexo init 安装组件1npm install 生成文件1hexo g 启动服务1hexo s 访问页面1http://localhost:4000]]></content>
+      <tags>
+        <tag>Hexo</tag>
       </tags>
   </entry>
 </search>
